@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48593b84-e7e7-4a8e-941d-44e59438586e" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../ch03/banking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch03/loop_examples/continue_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/calc_avg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch05/myfunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/import_random/lotto3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/import_random/rock_paper_scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/import_random/가위바위보.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/import_random/가위바위보2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/import_time/population2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/run_turtle/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/run_turtle/cannon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/run_turtle/easy_turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/run_turtle/full_turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/sys_ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch06/use_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch07/class_lib/airplane.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch07/class_lib/health.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch07/class_lib/person2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch07/customer/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch07/customer/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch07/customer/customer_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch07/customer/goldcustomer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch07/customer/vipcustomer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch07/customer_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch07/inherit_class/converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch07/maxlimit_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08/fileIO/f_2021kbo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08/fileIO/f_repeat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08/fileIO/fseason2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08/fileIO/with_as.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08/file_binary/bin_copy2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08/file_binary/flight.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08/file_binary/salad.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch08/score/calc_score2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch09/flask_web/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch09/flask_web/static/coffee-blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch09/flask_web/static/coffee-gray.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch09/flask_web/static/main_js.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch09/flask_web/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch09/flask_web/templates/even_odd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch09/flask_web/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch09/flask_web/templates/loop_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch09/flask_web/templates/memberlist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch09/flask_web/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch09/flask_web/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch09/flask_web/templates/season.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../database/tbl_member.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/even_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/gugudan_row.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise/ranking1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_coding/fileIO/f_replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_coding/join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_coding/regexp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_coding/regexp_sub.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercise_coding/supersonic_airplane_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gui_app/lotto/win_lotto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scanning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraping/exchange/exchange_find.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraping/naver_menu2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraping/output/subway_train2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraping/stock/naver_stock_find.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraping/stock/naver_stock_find2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scraping/stock/naver_stock_select_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../모두의 데이터분석/gui_tkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../모두의 데이터분석/myweb/start_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../모두의 데이터분석/myweb/static/tatu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../모두의 데이터분석/myweb/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../모두의 데이터분석/myweb/templates/season.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../모두의 데이터분석/함수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/pyworks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/pyworks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02/operator/bit.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02/operator/bit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02/operator/calc-op.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02/operator/calc-op.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02/operator/quotes.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02/operator/quotes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02/var/var.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02/var/var.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03/coffee.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch03/coffee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03/if_examples/calc_bmi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch03/if_examples/calc_bmi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03/if_examples/charge.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch03/if_examples/charge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03/if_examples/leap_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch03/if_examples/leap_year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03/if_examples/vaccine.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch03/if_examples/vaccine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03/loop_examples/coffee_machine.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch03/loop_examples/coffee_machine.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03/loop_examples/for_1to10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch03/loop_examples/for_1to10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03/loop_examples/gugudan.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch03/loop_examples/gugudan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03/loop_examples/while1to10.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch03/loop_examples/while1to10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch03/loop_examples/while_hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch03/loop_examples/while_hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04/dictionary/dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04/dictionary/dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04/list/find_max.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04/list/find_max.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04/list/for_in.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04/list/for_in.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04/list/list_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04/list/list_score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04/list/score_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch05/functions/var_param2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch05/functions/var_param2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch05/functions/var_param3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06/import_random/lotto2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06/import_random/lotto2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06/os_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06/os_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06/sys_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06/sys_ex0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06/sys_import.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06/sys_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06/threading_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06/threading_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06/threading_ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06/threading_ex2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch06/tuple2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch06/tuple2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/class_lib/arr.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/class_lib/arr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/class_lib/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/class_lib/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/class_lib/cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/class_lib/cart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/class_lib/customer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/class_lib/customer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/class_lib/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/class_lib/dog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/class_lib/doglist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/class_lib/doglist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/class_lib/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/class_lib/employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/class_lib/goldcustomer.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/class_lib/goldcustomer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/class_lib/person.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/class_lib/person.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/class_lib/student.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/class_lib/student.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/class_lib/student_cls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/class_lib/student1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/customer_main2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/customer/customer_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/employee_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/employee_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/inherit_class/calculators.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/inherit_class/calculators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/inherit_class/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/inherit_class/car.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/inherit_class/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/inherit_class/employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/inherit_class/person.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/inherit_class/person.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/myclass/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/myclass/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/myclass/person2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch07/student_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch07/student_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/fileIO/2021kbo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/fileIO/f_word.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/fileIO/f_word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/fileIO/fread.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/fileIO/fread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/fileIO/freadline2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/fileIO/freadline2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/fileIO/fw_list_random.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/fileIO/fw_list_random.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/fileIO/fwrite.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/fileIO/fwrite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/fileIO/fwrite2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/fileIO/fwrite2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/fileIO/hello.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/fileIO/hello.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/fileIO/typing_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/fileIO/typing_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/fileIO/word.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/fileIO/word.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/fileIO/word_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/fileIO/animal_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/file_binary/bin_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/file_binary/bin_copy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/file_binary/binfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/file_binary/binfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/file_binary/output/activity2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/file_binary/pickle-ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/file_binary/pickle-ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/score/calc_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/score/calc_score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/score/score.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/score/score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/score/score.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/score/scorelist.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/score/scorelist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/score/scorelist.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/try_except/make_except.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/try_except/make_except.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch08/try_except/try_except_multi2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch08/try_except/try_except_multi2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch09/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch09/start_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch10/re.findall2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch10/re.findall2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch10/re_compile3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch10/re_compile3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch10/re_findall.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch10/re_findall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch10/re_group2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ch10/re_group2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/oracle_conn.py" beforeDir="false" afterPath="$PROJECT_DIR$/../database/oracle_conn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/output/test.db" beforeDir="false" afterPath="$PROJECT_DIR$/../database/output/test.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/t_member.py" beforeDir="false" afterPath="$PROJECT_DIR$/../database/t_member.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/tbl_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/../database/tbl_book.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/tbl_employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/../database/tbl_employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_app/MyCalculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_app/MyCalculator2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_app/calculator/my_calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_app/ctof/converters.py" beforeDir="false" afterPath="$PROJECT_DIR$/../gui_app/temp_convert/converters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_app/ctof/ctof.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_app/ctof/ctof_full.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_app/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/../gui_app/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_app/lotto.py" beforeDir="false" afterPath="$PROJECT_DIR$/../gui_app/lotto_win_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_app/temp_convert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../gui_app/temp_convert/temp_convert_func.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_app/temp_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../gui_app/temp_convert/temp_convert_0.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_app/temperature/converters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gui_app/temperature/temp_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../gui_app/temp_convert/temp_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../run_turtle/run_turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../run_turtle/run_turtle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../run_turtle/run_turtle_full.py" beforeDir="false" afterPath="$PROJECT_DIR$/../run_turtle/run_turtle_full.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scraping/beautifulsoup1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scraping/beautifulsoup1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scraping/beautifulsoup2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scraping/beautifulsoup2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scraping/exchange_find.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scraping/exchange/exchange_findall.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scraping/exchange_select.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scraping/exchange/exchange_select.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scraping/naver_begin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scraping/naver_begin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scraping/naver_begin_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scraping/naver_begin_all.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scraping/naver_menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scraping/naver_menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scraping/naver_stock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scraping/naver_stock2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scraping/naver_stock_select.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scraping/output/subway_train.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../scraping/output/subway_train.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scraping/requests_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scraping/requests_ex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scraping/url_robots.py" beforeDir="false" afterPath="$PROJECT_DIR$/../scraping/url_robots.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MSBCBXR6wCeIMwlfwqZXgNLn2Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/pyworks/ocr&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="ocr_tesseract" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ocr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ocr_tesseract.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ocr_tesseract" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="48593b84-e7e7-4a8e-941d-44e59438586e" name="변경" comment="" />
+      <created>1677750973085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677750973085</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
